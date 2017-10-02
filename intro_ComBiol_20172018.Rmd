@@ -25,19 +25,15 @@ options(Encoding="UTF-8")
 ###Second part of the course (Olivier François)
 
 ## An example of Phylogeny: Hominidae
-```{r, echo=FALSE,out.width = "500px"}
-knitr::include_graphics("tree_primates.jpg")
-```
+<div style="text-align:center"><img src="tree_primates.jpg" width="500" height="500" />
 
 ## A second example of phylogeny: US criminal case: State of Washington v Anthony Eugene Whitfield
-```{r, echo=FALSE,out.width = "400px"}
-knitr::include_graphics("Washington_case.jpg")
-```
+
+<div style="text-align:center"><img src="Washington_case.jpg" width="400" height="400" />
+
 
 ## A third example of phylogeny: Tracking SARS back to its source
-```{r, echo=FALSE,out.width = "800px"}
-knitr::include_graphics("sars.jpg")
-```
+![](sars.jpg)
 
 ***
 ### There are different methods to reconstruct phylogeny.
@@ -50,9 +46,8 @@ knitr::include_graphics("sars.jpg")
 - Bootstrap methods: how to evaluate uncertainty.
 
 ##Agglomerative hierarchical clustering
-```{r, echo=FALSE,out.width = "800px"}
-knitr::include_graphics("agglo_clustering.jpg")
-```
+![](agglo_clustering.jpg)
+
 
 ##Hierarchical clustering
 
