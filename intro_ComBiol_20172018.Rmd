@@ -49,12 +49,12 @@ knitr::include_graphics("sars.jpg")
 - Agglomerative hierarchical clustering: how to make clusters.
 - Bootstrap methods: how to evaluate uncertainty.
 
-##Agglomerative hierarchical clustering
+##Agglomerative hierarchical clustering
 ```{r, echo=FALSE,out.width = "800px"}
 knitr::include_graphics("agglo_clustering.jpg")
 ```
 
-##Hierarchical clustering
+##Hierarchical clustering
 
 ###Cluster dissimilarity
 A measure of dissimilarity between sets of observations (Euclidean distance,…).
